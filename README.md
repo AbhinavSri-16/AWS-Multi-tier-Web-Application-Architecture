@@ -1,6 +1,7 @@
 # AWS Multi-tier Web Application Architecture
 ## Architecture Diagram
-<img width="1536" height="1024" alt="Multi cloud architecture" src="https://github.com/user-attachments/assets/3867ba64-7be9-4c73-a006-e387624f1a2b" />
+![Multi cloud1](https://github.com/user-attachments/assets/8a57ab25-a31f-42df-933a-fe38d284f7bb)
+
 
 ## Project Overview
  - Deployed inside AWS Cloud.
